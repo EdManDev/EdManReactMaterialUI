@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 
-export default class App extends Component {
+export default class SignIn extends Component {
 	render() {
 		return (
 			<div>
-				<lock />
+				<h1>Sign In </h1>
 			</div>
 		);
 	}
